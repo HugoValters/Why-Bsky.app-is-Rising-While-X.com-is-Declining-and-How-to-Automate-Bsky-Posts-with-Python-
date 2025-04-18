@@ -1,4 +1,25 @@
-import os
+# This Python script is created/written by Hugo Valters copyright (c) 2025
+# It is allowed free to use for legal purposes
+# It is allowed to modify and redistribute this code as long as the original author is credited
+# It is allowed to use this code for commercial purposes as long as the original author is credited
+# It is allowed to use this code for educational purposes as long as the original author is credited
+# It is allowed to use this code for personal purposes as long as the original author is credited
+# It is allowed to use this code for research purposes as long as the original author is credited
+# It is allowed to use this code for non-profit purposes as long as the original author is credited
+# It is allowed to use this code for profit purposes as long as the original author is credited
+# It is allowed to use this code for any purpose as long as the original author is credited
+# It is not allowed to use this code for illegal purposes
+# It is not allowed to use this code for malicious purposes
+# It is not allowed to use this code for any purpose that violates the law
+# It is not allowed to use this code for any purpose that violates the rights of others
+# It is not allowed to use this code for any purpose that violates the terms of service of any website
+# It is not allowed to use this code for any purpose that violates the terms of service of any API
+# It is not allowed to use this code for any purpose that violates the terms of service of any software
+# It is not allowed to use this code for any purpose that violates the terms of service of any platform
+# It is not allowed to use this code for any purpose that violates the terms of service of any service
+# It is not allowed to use this code for any purpose that violates the terms of service of any application
+# It is not allowed to use this code for any purpose that violates the terms of service of any website
+
 import json
 import requests
 import random
@@ -12,7 +33,7 @@ BSKY_PASSWORD = ""  # Replace with your Bluesky password
 POSTED_FILE = "posted_bsky.json"
 OUTPUT_FILE = "output_bsky.txt"
 
-# Topics array
+# Topics array for content generation
 TOPICS = [
     "Cloud Security",
     "DevSecOps Practices",
