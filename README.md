@@ -1,6 +1,36 @@
-# social-media-automation
-In this repository, you can find my project on automating social media posting. bsky.app, x formally known as twitter, LinkedIn, other
+# Social Media Automation with Python
 
-## License
+Automate your social media posting using a Python-based solution powered by OpenAI's API. This project focuses on publishing intelligent, AI-generated posts to platforms like **[Bsky](https://bsky.app/profile/hugovalters.bsky.social)**, **X (formerly Twitter)**, and **LinkedIn**.
+
+## 🔧 Features
+
+- ✨ AI-generated text using OpenAI API
+- 📤 Automated posting to **Bsky (bsky.app)**
+- 🕒 Scheduled or manual post triggering
+- 📈 Extendable to other platforms like X and LinkedIn - Will be added in the future
+
+## 📽️ Demo & Guide
+
+- ▶️ **YouTube Tutorial:** [Watch how it works](https://)
+- 📖 **Medium Article:** [Step-by-step guide](https://)
+
+## 🧠 Powered by
+
+- [Python](https://www.python.org/)
+- [OpenAI API](https://platform.openai.com/)
+- [Bsky.app](https://bsky.app/profile/hugovalters.bsky.social/)
+
+## 👉 Follow for more
+
+- [X.com](https://x.com/hugovalters)
+- [YouTube](http://youtube.com/@hugovalters)
+- [Rumble](https://rumble.com/c/HugoValters)
+- [Bsky.app](https://bsky.app/profile/hugovalters.bsky.social)
+- [Blog](https://blog.valters.eu)
+
+## 📜 License
 
 This project is licensed under the [Hugo Valters Custom License](LICENSE).
+
+---
+
