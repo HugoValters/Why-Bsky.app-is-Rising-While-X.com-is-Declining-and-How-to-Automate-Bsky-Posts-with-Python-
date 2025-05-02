@@ -11,8 +11,8 @@ Automate your social media posting using a Python-based solution powered by Open
 
 ## 📽️ Demo & Guide
 
-- ▶️ **YouTube Tutorial:** [Watch how it works](https://)
-- 📖 **Medium Article:** [Step-by-step guide](https://)
+- ▶️ **YouTube Tutorial:** [Watch how it works](https://www.youtube.com/watch?v=bbT2FtokMmY)
+- 📖 **Medium Article:** [Step-by-step guide](https://blog.valters.eu/why-bsky-app-is-rising-while-x-com-is-declining-and-how-to-automate-bsky-posts-with-python-9f62408d9b27)
 
 ## 🧠 Powered by
 
