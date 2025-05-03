@@ -28,6 +28,10 @@ Automate your social media posting using a Python-based solution powered by Open
 - [Bsky.app](https://bsky.app/profile/hugovalters.bsky.social)
 - [Blog](https://blog.valters.eu)
 
+## 📡 Hosting used
+
+- [Zone.eu](https://www.zone.eu)
+
 ## 📜 License
 
 This project is licensed under the [Hugo Valters Custom License](LICENSE).
